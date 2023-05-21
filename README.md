@@ -1,2 +1,2 @@
 # devops
-Debian 11
+Ubuntu Server 20.04
